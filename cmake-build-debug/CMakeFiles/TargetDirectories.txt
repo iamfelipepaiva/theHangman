@@ -1,0 +1,3 @@
+/home/digs/Forca/cmake-build-debug/CMakeFiles/ForcaC.dir
+/home/digs/Forca/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/digs/Forca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

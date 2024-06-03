@@ -1,0 +1,14 @@
+1 Cor preto
+2 Cor amarelo
+3 cor vermelho
+4 cor azul
+5 objeto corda
+6 objeto celular
+7 objeto caneta
+8 objeto caneca
+9 cor branco
+10 cor rosa
+11 pais brasil
+12 pais equador
+
+13 pais bolivia
