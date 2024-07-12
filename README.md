@@ -1,48 +1,29 @@
-<style>
-  h1{
-    text-align: center;
-  }
-  
-</style>
-
 # THE HANGMAN
 
-<div style="text-align: center;">
-  <img src="docs/imagens/hang.JPG" alt="Descrição da Imagem" title="The Hangman" width="250"/>
-</div>
+Este projeto, desenvolvido e apresentado em equipe, foi parte dos requisitos exigidos para a devida conclusão das disciplinas de Linguagem de Programação C e Engenharia de Software I.
 
-The Hangman é um projeto em grupo, realizado em sala para obtenção de nota na matéria de Linguagem de Programação I.
-Tendo como objetivo ser uma opção de entretenimento digital, possindo duas modalidades de jogo: Individual ou Dupla.
+O jogo objetiva oferecer uma opção de entretenimento digital, para pessoas com algum nível de alfabetização, através de duas possíveis modalidades: Individual ou Dupla.
 
-Na modalidade individual, o jogador é desafiado a completar uma palavra aleatória. Na modalidade dupla, um dos jogadores insere a dica e a palavra de seu desejo para desafiar seu amigo a completar no jogo.
+Na modalidade individual, o jogador é desafiado a completar uma palavra aleatória do banco de palavras do próprio jogo. Na modalidade dupla, um dos jogadores insere uma dica e uma palavra de seu desejo para desafiar seu amigo a completar dentro do número de tentativas. Usuários podem adicionar novas palavras e assim incrementar o banco de palavras do jogo.
 
 ## Tecnologias
 
-Linguagem C - CLion
+Linguagem de Programação C e IDE CLion.
 
 ## Funcionalidades
 
 - Adicionar palavras ao banco de palavras
-- Jogar o jogo da forca com palavras aleatórias do banco
-- Jogue em dupla desafiando um amigo
+- Jogar o jogo com palavras aleatórias já existentes
+- Jogar em dupla desafiando um amigo
 
 
 ## Como executar
 
-- Clone o repositório em seu disco C;
+- Clone o seguinte repositório em seu disco C -> git clone https://github.com/DigsRodrigues/Forca
 
+- Navegue até o diretório do projeto -> cd Forca/cmake-build-debug
 
-    git clone https://github.com/DigsRodrigues/Forca
-
-- Navegue até o diretório do projeto 
-
-
-    cd Forca/cmake-build-debug
-
-- Execute o jogo:
-
-
-    ForcaC
+- Executar código
 
 ## Interfaces
 
